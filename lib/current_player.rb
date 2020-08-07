@@ -12,3 +12,4 @@ def current_player(board)
   num.even?= "X"
   turn_count(board).odd? == "O"
 end
+end 
